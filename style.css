@@ -13,7 +13,9 @@
 body {
     background-color: #078cf8;
 }
-
+p {
+    word-break: break-word;
+}
 .wrapper {
     background-color: white;
     max-width: 405px;
@@ -118,7 +120,7 @@ body {
     background: #fff;
     border-radius: 4px;
     right: -5px;
-    bottom: -65px;
+    bottom: -42px;
     z-index: 2;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
     padding: 5px 0;
